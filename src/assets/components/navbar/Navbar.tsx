@@ -14,7 +14,7 @@ function Navbar() {
         <div className="w-110 px-3 mr-5 py-1.5 flex p-1 bg-slate-200 rounded-full ">
           <input
             type="text"
-            placeholder="Buscar na DrogShop"
+            placeholder="Buscar produto"
             name="Buscar-na-DrogShop"
             className="w-100 text-slate-800"
           />
