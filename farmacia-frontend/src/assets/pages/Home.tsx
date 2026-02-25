@@ -1,9 +1,12 @@
-import React from 'react'
-
 function Home() {
   return (
-    <div>Home</div>
-  )
+    <div>
+      <h1 className="text-[#ff463f] font-bold text-center ">Mais Comprados</h1>
+      <div>
+        
+      </div>
+    </div>
+  );
 }
 
-export default Home
+export default Home;
